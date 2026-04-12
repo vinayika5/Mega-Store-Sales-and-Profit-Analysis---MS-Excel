@@ -79,6 +79,28 @@ The dataset contains retail sales data including:
   Promote Standard shipping and optimize premium shipping pricing.
 
 
-- ## 👤 About Me
+## 🤝 Collaboration & Freelance
 
-Aspiring Data Analyst skilled in Excel and Power BI, passionate about turning data into actionable insights.
+If you need a **custom analytics portal, HR dashboard, or any data solution** built for your business — let’s connect!
+
+* 💼 LinkedIn: https://www.linkedin.com/in/chandni-bhardwaj-713305265/
+* 📧 Email: vinayika5@gmail.com
+
+---
+
+## 👩‍💻 Developed By
+
+**Chandni Bhardwaj** — Data Analyst
+*Empowering decisions through data.*
+
+---
+## 📬 Feedback
+
+If you found this project useful or have suggestions, feel free to contribute or connect!
+
+## ⭐ Support
+
+If you found this project useful, consider **giving it a star ⭐** on GitHub!
+
+---
+
